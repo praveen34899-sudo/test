@@ -1,0 +1,5 @@
+product=list(("mobile","headphone","charger","usb","powerbank","mobile"))
+print(product)
+unique=set(product)
+print(unique)
+print(list(unique))

@@ -1,0 +1,6 @@
+student=("kavin","jojo","joswa","saro","vicky","rizwan","deepa","gokul","saran")
+print(student[3])
+print(student[-2])
+print(student[2::])
+print(student[2:8:])
+print(student[2:8:2])

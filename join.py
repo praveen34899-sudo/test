@@ -1,0 +1,18 @@
+value=["hai","mithra"]
+x=" ".join(value)
+print(x)
+print(type(value))
+print(type(x))
+greet="***welcome to ABC travels***"
+greet.index('travels')
+print(greet)
+y=greet.startswith('w')
+print(y)
+s=greet.split()
+print(s)
+st=greet.strip("*")
+print(st)
+re=greet.replace("*","")
+print(re)
+pr=greet.partition("to")
+print(pr)
